@@ -1,0 +1,13 @@
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\bin\Debug\net8.0\Biblioteca.Application.deps.json
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\bin\Debug\net8.0\Biblioteca.Application.dll
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\bin\Debug\net8.0\Biblioteca.Application.pdb
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.AssemblyInfo.cs
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.sourcelink.json
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.dll
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\refint\Biblioteca.Application.dll
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.pdb
+C:\Users\dti-\Desktop\biblioteca-back\src\Application\Biblioteca.Application\obj\Debug\net8.0\ref\Biblioteca.Application.dll

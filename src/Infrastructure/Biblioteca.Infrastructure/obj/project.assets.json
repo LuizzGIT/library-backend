@@ -1601,6 +1601,16 @@
             "rid": "win"
           }
         }
+      },
+      "Biblioteca.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Biblioteca.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca.Domain.dll": {}
+        }
       }
     }
   },
@@ -4712,10 +4722,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Biblioteca.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/Biblioteca.Domain/Biblioteca.Domain.csproj",
+      "msbuildProject": "../../Domain/Biblioteca.Domain/Biblioteca.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Biblioteca.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.10"
     ]
@@ -4752,7 +4768,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\dti-\\Desktop\\biblioteca-back\\src\\Domain\\Biblioteca.Domain\\Biblioteca.Domain.csproj": {
+              "projectPath": "C:\\Users\\dti-\\Desktop\\biblioteca-back\\src\\Domain\\Biblioteca.Domain\\Biblioteca.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

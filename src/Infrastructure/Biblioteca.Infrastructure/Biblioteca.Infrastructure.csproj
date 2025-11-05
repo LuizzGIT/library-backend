@@ -21,4 +21,8 @@
     <Folder Include="Repositories\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\Biblioteca.Domain\Biblioteca.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

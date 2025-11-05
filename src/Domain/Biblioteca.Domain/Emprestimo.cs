@@ -1,6 +1,6 @@
 ﻿namespace Biblioteca.Domain
 {
-    public  class Emprestimo
+    public class Emprestimo
     {
         public enum StatusEmprestimo
         {
@@ -16,13 +16,14 @@
         public DateTime DataEmprestimo { get; set; }
         public DateTime DataDevolucaoPrevista { get; set; }
 
-        public DateTime? DataDevolucaoReal {  get; set; } // ? pois pode ser nulo se não for devolvido
+        public DateTime? DataDevolucaoReal { get; set; } // ? pois pode ser nulo se não for devolvido
 
         // FKs
 
         public int UsuarioId { get; set; }
 
-        public Usuario Usuario { get; set; }
+        public Usuario? Usuario { get; set; }
         public int LivroId { get; set; }
-        public Livro Livro { get; set; }  
+        public Livro? Livro { get; set; }
+    }
 }
