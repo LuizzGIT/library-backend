@@ -40,7 +40,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "livroUsuariio",
+        "Name": "livroUsuario",
         "Type": "Biblioteca.Domain.Livro",
         "IsRequired": true
       }

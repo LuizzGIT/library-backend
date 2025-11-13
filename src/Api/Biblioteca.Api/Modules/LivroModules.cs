@@ -75,7 +75,7 @@ namespace Biblioteca.Api.Modules
                 {
                     var sucesso = await livroService.DeleteAsync(Id);
 
-                    if (sucesso == false)
+                    if (!sucesso)
                     {
                         return Results.NotFound(); // não removeu pq nao tem 
                     }
